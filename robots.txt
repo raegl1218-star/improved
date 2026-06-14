@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://raegl1218-star.github.io/improved/sitemap.xml
+Sitemap: https://pj.com/sitemap.xml
